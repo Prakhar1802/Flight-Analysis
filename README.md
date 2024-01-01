@@ -1,7 +1,3 @@
-Absolutely! A README file is crucial on GitHub to help users understand your project. Here's a template for your flight data analysis project's README:
-
----
-
 # Flight Data Analysis Project
 
 Welcome to the Flight Data Analysis project! This project involves comprehensive analysis and visualization of flight-related data to derive insights across various aspects of flights.
@@ -32,7 +28,7 @@ This project utilizes Python and essential libraries like Pandas, Matplotlib, Se
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/flight-data-analysis.git
+   git clone https://github.com/Prakhar1802/Flight-Analysis.git
    ```
 
 2. Open `data_frame_analysis.ipynb` using Jupyter Notebook.
